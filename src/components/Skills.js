@@ -33,5 +33,5 @@ function Skills() {
     </section>
   );
 }
-
+//* Skills export
 export default Skills;
